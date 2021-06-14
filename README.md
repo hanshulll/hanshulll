@@ -1,4 +1,5 @@
-[![MasterHead](https://www.canva.com/design/DAEeeO5ZTwY/bBdG67Sw4rLhOpuyD3V5eg/view?utm_content=DAEeeO5ZTwY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://hanshulll.github.io)
+<img align="center" src="https://raw.githubusercontent.com/hanshulll/hanshulll/main/Red and Blue Education LinkedIn Banner.png"/></a>
+
 <h1 align="center">Hi 👋, I'm Hanshul Chandel</h1>
 <h3 align="center">A passionate CS engineer from India.</h3>
 
