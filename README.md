@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **hanshul.chandel@gmail.com**
 
+- 😄 Pronouns: He/Him
+
 - ⚡ Fun fact **I am an introvert**
 
 <h3 align="left">Connect with me:</h3>
