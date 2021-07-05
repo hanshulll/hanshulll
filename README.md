@@ -4,7 +4,7 @@
 <h3 align="center">A passionate CS engineer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanshulll&label=Profile%20views&color=129e00&style=plastic" alt="hanshulll" /> </p>
-<img align="right" alt="GIF" src="gif image.png" width="500px" height="320" />
+<img align="right" alt="GIF" src="gif image.gif" width="500px" height="320" />
 
 - 👨‍💻 You can also check out my portfolio at -
 
