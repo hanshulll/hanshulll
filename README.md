@@ -50,7 +50,7 @@
    <div>
    <details>
          <summary>GitHub Stats</summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanshulll&show_icons=true&locale=en" alt="hanshulll" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hanshulll&show_icons=true&locale=en" alt="hanshulll" /></p>
    </details>
    </div>
       </hr>
@@ -62,4 +62,12 @@
 </details>
 </div>
    </hr>
+
+   <hr>
+   <br>
+   <div>
+<p><img src="https://metrics.lecoq.io/hanshulll"/></p>
+   </div>
+</hr>
+</br>    
 
