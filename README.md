@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="gif image.gif" width="500px" height="320" />
+<img align="right" alt="GIF" src="gif image.gif" width="470px" height="300" />
 
 <h1 align="center">Hi 👋, I'm Hanshul Chandel</h1>
 <h3 align="center">A passionate CS engineer from India.</h3>
