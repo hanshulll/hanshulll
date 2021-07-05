@@ -56,6 +56,7 @@
       </hr>
         
   <hr>
+  <div>
   <details>
    <summary>Languages Used</summary> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanshulll&show_icons=true&locale=en&layout=compact" alt=“hanshulll”/></p>
@@ -65,7 +66,7 @@
 
    <hr>
    <br>
-   <div>
+   <div align="center">
 <p><img src="https://metrics.lecoq.io/hanshulll"/></p>
    </div>
 </hr>
