@@ -38,28 +38,23 @@
    <img src="https://activity-graph.herokuapp.com/graph?username=hanshulll&theme=xcode" alt="Contribution Graph" align="center" />
 
 <hr>
-<details>
-   <summary>Languages Used</summary> 
+<h3 align="left">Languages Used</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanshulll&show_icons=true&locale=en&layout=compact" alt=“hanshulll” /></p>
-</details>
-<div>
+
   </hr>
   
   <hr>
-   <div>
-   <details>
-         <summary>GitHub Stats</summary>
+   <h3 align="left">MY GIT STATS</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanshulll&show_icons=true&locale=en" alt="hanshulll" /></p>
       </details>
       <div>
-         <hr>
+         </hr>
          
-<div>
-<details>
-  <summary>GitHub History</summary>
-
+<hr>
+<h3 align="left">GitHub History</h3>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hanshulll&show_icons=true&locale=en"/></p>
 </details>
    </div>
+</hr>
 <hr>
-         </hr>
+</hr>
