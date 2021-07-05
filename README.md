@@ -35,7 +35,7 @@
 
 <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=hanshulll&theme=xcode" alt="Contribution Graph" align="center" />
+   <img src="https://activity-graph.herokuapp.com/graph?username=hanshulll&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true" align="center" />
 
  <hr>
  <div>
