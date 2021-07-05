@@ -1,10 +1,10 @@
-<img align="center" src="https://raw.githubusercontent.com/hanshulll/hanshulll/main/banner.png"/></a>
+<img align="right" alt="GIF" src="gif image.gif" width="500px" height="320" />
 
 <h1 align="center">Hi 👋, I'm Hanshul Chandel</h1>
 <h3 align="center">A passionate CS engineer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanshulll&label=Profile%20views&color=129e00&style=plastic" alt="hanshulll" /> </p>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif">
+
 
 - 👨‍💻 You can also check out my portfolio at -
 
