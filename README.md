@@ -10,7 +10,7 @@
 
 - 📝 I regularly write notes on - [https://www.notion.so/HANSHUL-S-BOOKS-NOTES-d89125ece5eb4a36a1537db77330cf23](https://www.notion.so/HANSHUL-S-BOOKS-NOTES-d89125ece5eb4a36a1537db77330cf23)
 
-- 🌱 I’m currently learning - **MLOps (Machine Learning Operations) Fundamentals**
+- 🌱 I’m currently learning - **Full Stack Web-Development**
 
 - 📫 How to reach me **hanshul.chandel@gmail.com**
 
