@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanshulll&label=visitors%20&color=129e00&style=plastic" alt="hanshulll" /> </p>
 <img align="right" alt="GIF" src="gif image.gif" width="500px" height="320" />
 
-- 👨‍💻 You can also check out my portfolio at -
+- 👨‍💻 You can also check out my portfolio at - [hanshul.tech](https://hanshul.tech)
 
-- 📝 I regularly write notes on - [https://www.notion.so/HANSHUL-S-BOOKS-NOTES-d89125ece5eb4a36a1537db77330cf23](https://www.notion.so/HANSHUL-S-BOOKS-NOTES-d89125ece5eb4a36a1537db77330cf23)
+- 📝 I regularly write notes on - [NOTION](https://www.notion.so/HANSHUL-S-BOOKS-NOTES-d89125ece5eb4a36a1537db77330cf23)
 
 - 🌱 I’m currently learning - **Full Stack Web-Development**
 
