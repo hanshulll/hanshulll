@@ -1,7 +1,7 @@
 <img align="center" src="https://raw.githubusercontent.com/hanshulll/hanshulll/main/banner.png"/></a>
 
 <h1 align="center">Hi 👋, I'm Hanshul Chandel</h1>
-<h3 align="center">A passionate CS engineer from India.</h3>
+<h4>I'm a 20 year old tech obsessed from India. I use MacOS, Linux and occasionally Windows. My preference for development is macOS though.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanshulll&label=visitors%20&color=129e00&style=plastic" alt="hanshulll" /> </p>
 <img align="right" alt="GIF" src="gif image.gif" width="500px" height="320" />
