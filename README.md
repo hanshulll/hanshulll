@@ -12,7 +12,7 @@ I am Hanshul Chandel, currently pursuing my Bachelors in computer science from [
 [![Linkedin Badge](https://img.shields.io/badge/-Hanshulll-green?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Hanshulll/)](https://www.linkedin.com/in/hanshul-chandel/)
 [![Instagram Badge](https://img.shields.io/badge/-hanshulll-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/hanshulll/)](https://instagram.com/hanshulll)
 [![Gmail Badge](https://img.shields.io/badge/-hanshul.chandel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hanshul.chandel@gmail.com)](mailto:hanshul.chandel@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://hanshulll.github.io/)](https://hanshulll.github.io/)
+[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://hanshulll.github.io/)](https://hanshulll.github.io/)
 
 [![Hanshul's github activity graph](https://activity-graph.herokuapp.com/graph?username=hanshulll&theme=xcode)](https://git.io/hanshulll)
 
