@@ -1,4 +1,4 @@
-
+<img align="center" src="banner.png" class="banner" width="100%" height="50%"/>
 
 <h1 align="center">Hi 👋, I'm Hanshul Chandel</h1>
 <h4>I'm a 20 year old tech obsessed from India. I use MacOS, Linux and occasionally Windows. My preference for development is macOS though.</h3>
