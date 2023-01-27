@@ -17,7 +17,7 @@ I am Hanshul Chandel, currently pursuing my Bachelors in computer science from [
 ## ⚡ Technologies
 
 ### Language :
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.java.com" target="_new" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 
 ### Libraries & Framework :
