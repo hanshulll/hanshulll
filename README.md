@@ -5,7 +5,9 @@
 
 ## Hi, I am Hanshul! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Hanshul Chandel, currently pursuing my Bachelors in computer science from [Shoolini University](http://shooliniuniversity.com/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+As a Software Developer at FPL Technologies, I am building high-performance REST APIs using the Micronaut framework. I am part of a cross-functional team that delivers software solutions that meet business requirements and ensure code quality, scalability, and security. I have contributed to several large-scale projects, which are innovative products that offer seamless and secure digital banking and credit scoring services.
+
+I have completed my Bachelor of Technology in Computer Science from Shoolini University, where I have learned the fundamentals and best practices of software engineering. I have a strong grasp of Java and Object-Oriented Programming, which enables me to create modular, reusable, and maintainable code. I am proficient in using Git for version control, Postman for API testing, IntelliJ for development environment, and GitLab for code management and collaboration. I enjoy solving complex technical challenges and staying up-to-date with the latest advancements in software engineering. I am passionate about creating software solutions that improve lives and make a positive impact. Find out more about me & feel free to connect with me here:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-HanshulChandel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanshul-chandel/)](https://www.linkedin.com/in/hanshul-chandel/)
